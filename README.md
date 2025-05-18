@@ -1,6 +1,7 @@
 CSE 110 LAB 7
 Teammate:
 Zhenyu Jiang
+
 Katy Stadler (A17301232)
 
 ## Expose
